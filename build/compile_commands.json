@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/wg/01_workspace/96tmpg/build",
+  "command": "/usr/bin/g++   -I/home/wg/01_workspace/96tmpg/./include/adb  -std=c++11 -O3 -O3 -DNDEBUG   -o CMakeFiles/main.dir/src/main.cpp.o -c /home/wg/01_workspace/96tmpg/src/main.cpp",
+  "file": "/home/wg/01_workspace/96tmpg/src/main.cpp"
+},
+{
+  "directory": "/home/wg/01_workspace/96tmpg/build",
+  "command": "/usr/bin/g++  -Dadbcontrol_EXPORTS -I/home/wg/01_workspace/96tmpg/./include/adb  -std=c++11 -O3 -O3 -DNDEBUG -fPIC   -o CMakeFiles/adbcontrol.dir/src/adb/ADBControl.cpp.o -c /home/wg/01_workspace/96tmpg/src/adb/ADBControl.cpp",
+  "file": "/home/wg/01_workspace/96tmpg/src/adb/ADBControl.cpp"
+}
+]

@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/wg/01_workspace/96tmpg/include/adb/ADBControl.h
+iostream
+-
+string
+-
+unistd.h
+-
+fstream
+-
+thread
+-
+LogPlugin.hpp
+/home/wg/01_workspace/96tmpg/include/adb/LogPlugin.hpp
+KeyEvent.h
+/home/wg/01_workspace/96tmpg/include/adb/KeyEvent.h
+
+/home/wg/01_workspace/96tmpg/include/adb/KeyEvent.h
+
+/home/wg/01_workspace/96tmpg/include/adb/LogPlugin.hpp
+iostream
+-
+time.h
+-
+
+/home/wg/01_workspace/96tmpg/src/adb/ADBControl.cpp
+../../include/adb/ADBControl.h
+/home/wg/01_workspace/96tmpg/include/adb/ADBControl.h
+

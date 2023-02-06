@@ -1,0 +1,1 @@
+/usr/bin/g++ -fPIC -std=c++11 -O3 -O3 -DNDEBUG  -shared -Wl,-soname,libadbcontrol.so -o libadbcontrol.so CMakeFiles/adbcontrol.dir/src/adb/ADBControl.cpp.o  -lpthread 

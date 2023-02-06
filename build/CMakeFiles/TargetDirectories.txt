@@ -1,0 +1,4 @@
+/home/wg/01_workspace/96tmpg/build/CMakeFiles/rebuild_cache.dir
+/home/wg/01_workspace/96tmpg/build/CMakeFiles/edit_cache.dir
+/home/wg/01_workspace/96tmpg/build/CMakeFiles/main.dir
+/home/wg/01_workspace/96tmpg/build/CMakeFiles/adbcontrol.dir
